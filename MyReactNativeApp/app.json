@@ -1,0 +1,12 @@
+{
+  "name": "MyReactNativeApp",
+  "displayName": "MyReactNativeApp",
+  "expo": {
+    "name": "MyReactNativeApp",
+    "slug": "MyReactNativeApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
